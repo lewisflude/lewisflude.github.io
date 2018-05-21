@@ -21,7 +21,7 @@ body {
 }
 
 .social-media-links {
-  margin-bottom: 24px;
+  margin-bottom: 48px;
   a {
     margin-right: 24px;
   }
@@ -38,6 +38,7 @@ body {
 .item-outer {
   display: flex;
   flex-direction: column;
+  transition: 500ms;
 }
 
 .item {
@@ -46,6 +47,7 @@ body {
   flex-direction: column;
   margin-right: 24px;
   margin-bottom: 24px;
+  transition: 500ms;
 }
 
 .item-client {
@@ -54,6 +56,7 @@ body {
   margin-bottom: 24px;
   height: 24px;
   width: 100%;
+  transition: 500ms;
 }
 .item-title {
   max-width: 100px;
@@ -62,10 +65,12 @@ body {
   margin: 24px 0;
   width: 100%;
   line-height: 16px;
+  transition: 500ms;
 }
 .item-tagline {
   font-size: 12px;
   line-height: 16px;
   width: 100%;
   max-width: 100px;
+  transition: 3000ms;
 }
