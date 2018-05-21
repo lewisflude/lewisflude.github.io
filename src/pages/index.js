@@ -10,6 +10,7 @@ const generateProjectsList = () => {
     projectsList.push(
       <Item
         project={projects[i]}
+        projectCount={i}
       />
     )
   }

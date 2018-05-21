@@ -5,7 +5,7 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max)) + 1;
 }
 
-const Item = ({ project }) => (
+const Item = ({ project, projectCount }) => (
   <div 
     className="item-outer"
     style={{
