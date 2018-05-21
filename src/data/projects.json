@@ -1,0 +1,69 @@
+[
+  {
+    "client": "Pillar Project",
+    "title": "Front-end Developer",
+    "tagline": "The world's most friendly crypto wallet and personal data locker",
+    "url": "https://pillarproject.io"
+  },
+  {
+    "client": "Cookies",
+    "title": "Front-end Developer",
+    "tagline": "A fantastic Ruby-on-Rails agency",
+    "url": "https://cookieshq.co.uk"
+
+  },
+  {
+    "client": "Neos",
+    "title": "Front-end Developer",
+    "tagline": "Insurance meets internet-of-things",
+    "url": "https://neos.co.uk"
+  },
+  {
+    "client": "Hiroes",
+    "title": "Front-end Developer",
+    "tagline": "The best way to find people to help run your next event",
+    "url": "https://hiroes.co"
+  },
+  {
+    "client": "Propoly",
+    "title": "Front-end Developer",
+    "tagline": "A clean, easy to use lettings site",
+    "url": "https://propoly.com"
+  },
+  {
+    "client": "New Future London",
+    "title": "Front-end Developer",
+    "tagline": "A streetware brand",
+    "url": "https://newfuturelondon.com"
+  },
+  {
+    "client": "Boy London",
+    "title": "Front-end Developer",
+    "tagline": "An iconic fashion brand founded in the 70s in London",
+    "url": "https://www.leavetheboyalone.com/"
+  },
+  {
+    "client": "Zzish",
+    "title": "Front-end Developer",
+    "tagline": "A digital platform for teachers and their students",
+    "url": "https://zzish.com"
+  },
+  {
+    "client": "Makeshift",
+    "title": "Front-end Developer",
+    "tagline": "A one-of-a-kind product agency that tried wild new ideas",
+    "url": "https://makeshift.io/"
+  },
+  {
+    "client": "Magnific",
+    "title": "Founder",
+    "tagline": "A content agency, a network of 700+ writers and 10+ magazines",
+    "url": "https://magnific.com/"
+  },
+  {
+    "client": "Enthuse.me",
+    "title": "Front-end Developer",
+    "tagline": "The simplest way to show the world your expertise",
+    "url": "https://enthuse.me"
+  }
+]

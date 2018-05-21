@@ -2,30 +2,19 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const Header = ({ siteTitle }) => (
-  <div
-    style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
-    }}
-  >
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-      }}
+  <div className="header">
+    <h1 
+      className="title"
     >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: 'white',
-            textDecoration: 'none',
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
+      <Link
+        to="/"
+      >
+        {siteTitle}
+      </Link>
+    </h1>
+    <div className="social-media-links">
+      <a href="https://twitter.com/lewisflude">Twitter</a>
+      <a href="https://facebook.com/lewisflude">Facebook</a>
     </div>
   </div>
 )

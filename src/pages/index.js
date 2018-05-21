@@ -1,12 +1,24 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Item from '../components/item';
+
+const projects = require('../data/projects.json');
+
+const generateProjectsList = () => {
+  const projectsList = [];
+  for (let i = 0; i < projects.length; i++) {
+    projectsList.push(
+      <Item
+        project={projects[i]}
+      />
+    )
+  }
+  return projectsList;
+}
 
 const IndexPage = () => (
-  <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+  <div className="item-wrapper">
+    {generateProjectsList()}
   </div>
 )
 
