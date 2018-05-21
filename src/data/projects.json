@@ -7,20 +7,20 @@
   },
   {
     "client": "Cookies",
-    "title": "Front-end Developer",
+    "title": "Front-end Developer & Designer",
     "tagline": "A fantastic Ruby-on-Rails agency",
     "url": "https://cookieshq.co.uk"
 
   },
   {
     "client": "Neos",
-    "title": "Front-end Developer",
+    "title": "Front-end Developer & Designer",
     "tagline": "Insurance meets internet-of-things",
     "url": "https://neos.co.uk"
   },
   {
     "client": "Hiroes",
-    "title": "Front-end Developer",
+    "title": "Full-stack Developer & Designer",
     "tagline": "The best way to find people to help run your next event",
     "url": "https://hiroes.co"
   },
@@ -32,13 +32,13 @@
   },
   {
     "client": "New Future London",
-    "title": "Front-end Developer",
+    "title": "Front-end Developer & Designer",
     "tagline": "A streetware brand",
     "url": "https://newfuturelondon.com"
   },
   {
     "client": "Boy London",
-    "title": "Front-end Developer",
+    "title": "Front-end Developer & Designer",
     "tagline": "An iconic fashion brand founded in the 70s in London",
     "url": "https://www.leavetheboyalone.com/"
   },
@@ -50,7 +50,7 @@
   },
   {
     "client": "Makeshift",
-    "title": "Front-end Developer",
+    "title": "Full-stack Developer & Designer",
     "tagline": "A one-of-a-kind product agency that tried wild new ideas",
     "url": "https://makeshift.io/"
   },
@@ -62,7 +62,7 @@
   },
   {
     "client": "Enthuse.me",
-    "title": "Front-end Developer",
+    "title": "Front-end Developer & Designer",
     "tagline": "The simplest way to show the world your expertise",
     "url": "https://enthuse.me"
   }

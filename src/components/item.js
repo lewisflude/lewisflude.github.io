@@ -16,8 +16,8 @@ const Item = ({ project }) => (
     <div 
       className="item"
       style={{
-        left: getRandomInt(12),
-        top: getRandomInt(12),
+        left: getRandomInt(6),
+        top: getRandomInt(6),
         flexGrow: getRandomInt(8),
         flexShrink: getRandomInt(8),
       }}
@@ -34,7 +34,7 @@ const Item = ({ project }) => (
       <p 
         className="item-title"
         style={{
-          transform: `scaleY(${getRandomInt(4)})`
+          transform: `scaleY(${getRandomInt(2)})`
         }}
       >{project.title}</p>
       <p className="item-tagline">{project.tagline}</p>
